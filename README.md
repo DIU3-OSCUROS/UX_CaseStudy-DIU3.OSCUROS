@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario (Tema: Kerarqueo artesanía )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIU3-OSCUROS.  Curso: 2024/25 
+Grupo: DIU3.OSCUROS.  Curso: 2024/25 
 
-Actualizado: 06/03/2025
+Actualizado: 10/03/2025
 
 Proyecto: 
 
