@@ -62,14 +62,20 @@ Miembros:
 >>>
 >>> ## 1.c Personas
 
-### Persona #1: Laura Rodríguez  
-![Laura Rodríguez]([https://raw.githubusercontent.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.OSCUROS/master/P1/laura.png](https://github.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.OSCUROS/blob/master/P1/Laura%20Persona%20Foto.jpg))  
+## 1.c Personas
 
+## 1.c Personas
+
+### Persona #1: Laura Rodríguez  
+![Laura Rodríguez](P1/Laura%20Persona%20Foto.jpg)  
+
+**Descripción:**  
 Laura es una emprendedora de 32 años interesada en la artesanía sostenible. Busca plataformas donde pueda adquirir productos únicos hechos a mano y, a su vez, aprender sobre técnicas artesanales. Sin embargo, su experiencia en **Kerarqueo** ha sido desafiante debido a problemas de navegación y falta de información clara sobre los productos y artesanos.
 
 ### Persona #2: Javier Martín  
-![Javier Martín]([https://raw.githubusercontent.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.OSCUROS/master/P1/javier.png](https://github.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.OSCUROS/blob/master/P1/Javier%20Persona%20Foto.jpg))  
+![Javier Martín](P1/Javier%20Persona%20Foto.jpg)  
 
+**Descripción:**  
 Javier, de 45 años, es un diseñador de interiores que valora la exclusividad y calidad de los productos artesanales. Busca objetos decorativos hechos a mano para sus proyectos, pero ha encontrado dificultades en **Kerarqueo** debido a una mala organización de categorías y filtros de búsqueda poco precisos.
 
 
