@@ -58,7 +58,20 @@ Miembros:
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+>>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+>>>
+>>> ## 1.c Personas
+
+### Persona #1: Laura Rodríguez  
+![Laura Rodríguez](https://raw.githubusercontent.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.OSCUROS/master/P1/laura.png)  
+
+Laura es una emprendedora de 32 años interesada en la artesanía sostenible. Busca plataformas donde pueda adquirir productos únicos hechos a mano y, a su vez, aprender sobre técnicas artesanales. Sin embargo, su experiencia en **Kerarqueo** ha sido desafiante debido a problemas de navegación y falta de información clara sobre los productos y artesanos.
+
+### Persona #2: Javier Martín  
+![Javier Martín](https://raw.githubusercontent.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.OSCUROS/master/P1/javier.png)  
+
+Javier, de 45 años, es un diseñador de interiores que valora la exclusividad y calidad de los productos artesanales. Busca objetos decorativos hechos a mano para sus proyectos, pero ha encontrado dificultades en **Kerarqueo** debido a una mala organización de categorías y filtros de búsqueda poco precisos.
+
 
 
 ### 1.d User Journey Map
