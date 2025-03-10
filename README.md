@@ -74,8 +74,14 @@ Miembros:
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+>>> - Valoración numérica obtenida:  74 (Moderate) 
+>>> - Comentario sobre la revisión:  
+
+En términos generales, la usabilidad de Kerarqueo es aceptable, pero presenta áreas de mejora. Entre los puntos fuertes, destaca su diseño visual limpio y su propuesta enfocada en productos artesanales sostenibles. La navegación es intuitiva en la mayoría de las secciones, y las páginas de producto ofrecen información detallada.
+
+Sin embargo, se han identificado problemas en la accesibilidad móvil y en la falta de filtros avanzados de búsqueda, lo que dificulta la exploración eficiente de los productos. Además, el proceso de compra podría ser más fluido, ya que no siempre queda claro cuándo se ha agregado un producto al carrito. También se recomienda mejorar el feedback visual en acciones clave y optimizar la estructura de la web para una experiencia de usuario más fluida y accesible.
+
+A pesar de estas limitaciones, con algunos ajustes en usabilidad y navegación, la plataforma tiene potencial para ofrecer una experiencia más intuitiva y competitiva.
 
 <br>
 
