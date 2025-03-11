@@ -94,18 +94,23 @@ Javier, de 45 años, es un diseñador de interiores que valora la exclusividad y
 ![Método UX](img/JourneyMap.png) 
 ----
 
-Para analizar la experiencia de usuario en Kerarqueo, hemos creado dos perfiles distintos con objetivos diferentes en la plataforma.
+## Experiencia de Usuario en Kerarqueo
 
-Laura Fernández (Reserva de experiencia de ecoturismo)
-Laura representa a los usuarios que buscan experiencias sostenibles. Su Journey Map muestra las dificultades en la búsqueda y reserva, destacando la falta de filtros avanzados y procesos de pago más claros. La optimización de estos aspectos mejoraría la conversión de visitantes en clientes.
+Para analizar la experiencia de usuario en **Kerarqueo**, hemos creado dos perfiles distintos con objetivos diferentes en la plataforma.
 
+### Laura Fernández (Reserva de experiencia de ecoturismo)
+Laura representa a los usuarios que buscan **experiencias sostenibles**. Su Journey Map muestra las dificultades en la **búsqueda y reserva**, destacando la falta de **filtros avanzados** y **procesos de pago más claros**. La optimización de estos aspectos mejoraría la conversión de visitantes en clientes.
 
-Javier Gómez (Publicación de una experiencia de turismo rural)
-Javier es un vendedor que busca promocionar sus actividades. Su Journey Map refleja problemas en la creación y visibilidad de ofertas, como la falta de orientación para nuevos vendedores y métricas de rendimiento. Mejorar la experiencia de los proveedores podría atraer más ofertas de calidad a la plataforma.
+📄 **[Ver Journey Map de Laura](P1/Laura%20Persona%20Journey%20Map.pdf)**
 
+### Javier Gómez (Publicación de una experiencia de turismo rural)
+Javier es un vendedor que busca **promocionar sus actividades**. Su Journey Map refleja problemas en la **creación y visibilidad de ofertas**, como la falta de **orientación para nuevos vendedores** y **métricas de rendimiento**. Mejorar la experiencia de los proveedores podría atraer más ofertas de calidad a la plataforma.
 
-Conclusión
-El análisis muestra que Kerarqueo necesita mejorar tanto la experiencia de los compradores como la de los vendedores. Implementar mejoras en accesibilidad, navegación y procesos de pago/publicación aumentaría la usabilidad y competitividad de la plataforma.
+📄 **[Ver Journey Map de Javier](P1/Javier%20Persona%20Journey%20Map.pdf)**
+
+### Conclusión
+El análisis muestra que **Kerarqueo** necesita mejorar tanto la experiencia de los compradores como la de los vendedores. Implementar mejoras en **accesibilidad, navegación y procesos de pago/publicación** aumentaría la **usabilidad y competitividad** de la plataforma.
+
  
 
 
