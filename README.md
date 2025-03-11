@@ -62,7 +62,6 @@ Miembros:
 >>>
 >>> ## 1.c Personas
 
-## 1.c Personas
 
 ## 1.c Personas
 
@@ -84,7 +83,19 @@ Javier, de 45 años, es un diseñador de interiores que valora la exclusividad y
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Para analizar la experiencia de usuario en Kerarqueo, hemos creado dos perfiles distintos con objetivos diferentes en la plataforma.
+
+Laura Fernández (Reserva de experiencia de ecoturismo)
+Laura representa a los usuarios que buscan experiencias sostenibles. Su Journey Map muestra las dificultades en la búsqueda y reserva, destacando la falta de filtros avanzados y procesos de pago más claros. La optimización de estos aspectos mejoraría la conversión de visitantes en clientes.
+
+
+Javier Gómez (Publicación de una experiencia de turismo rural)
+Javier es un vendedor que busca promocionar sus actividades. Su Journey Map refleja problemas en la creación y visibilidad de ofertas, como la falta de orientación para nuevos vendedores y métricas de rendimiento. Mejorar la experiencia de los proveedores podría atraer más ofertas de calidad a la plataforma.
+
+
+Conclusión
+El análisis muestra que Kerarqueo necesita mejorar tanto la experiencia de los compradores como la de los vendedores. Implementar mejoras en accesibilidad, navegación y procesos de pago/publicación aumentaría la usabilidad y competitividad de la plataforma.
+ 
 
 
 ### 1.e Usability Review
