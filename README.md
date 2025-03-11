@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Kerarqueo artesanía )
 
 Grupo: DIU3.OSCUROS.  Curso: 2024/25 
 
-Actualizado: 10/03/2025
+Actualizado: 11/03/2025
 
 Proyecto: 
 
@@ -75,10 +75,6 @@ Este análisis nos permitirá definir estrategias para mejorar la plataforma, op
 -----
 
 
->>> ## 1.c Personas
-
-
-## 1.c Personas
 
 ### Persona #1: Laura Rodríguez  
 ![Laura Rodríguez](P1/Laura%20Persona%20Foto.jpg)  
@@ -129,7 +125,16 @@ Sin embargo, se han identificado problemas en la accesibilidad móvil y en la fa
 
 A pesar de estas limitaciones, con algunos ajustes en usabilidad y navegación, la plataforma tiene potencial para ofrecer una experiencia más intuitiva y competitiva.
 
-  
+ ## Resumen de la Práctica
+
+En esta práctica hemos realizado un análisis de usabilidad y experiencia de usuario (UX) de la plataforma **Kerarqueo**, una web dedicada a la venta de productos artesanales sostenibles. Para ello, hemos seguido una metodología basada en la investigación de usuarios, el análisis comparativo con plataformas similares (**Etsy** y **Amazon Handmade**), y la evaluación de accesibilidad, navegación y funcionalidad.
+
+Se han identificado puntos fuertes, como su enfoque en la sostenibilidad y la conexión directa entre artesanos y consumidores. No obstante, también se han detectado áreas de mejora, especialmente en **navegación, accesibilidad y optimización móvil**. 
+
+A partir de estos hallazgos, hemos desarrollado **personas ficticias** representativas de los usuarios potenciales y elaborado **user journey maps** para visualizar su interacción con la plataforma. Finalmente, se ha llevado a cabo una **evaluación de usabilidad**, destacando aspectos clave a optimizar para mejorar la experiencia de usuario y la conversión en la plataforma.
+
+🔹 **Conclusión**: Aunque **Kerarqueo** ofrece una propuesta de valor atractiva, aún tiene margen de mejora en términos de usabilidad y experiencia de usuario, lo que podría aumentar su alcance y competitividad en el sector.
+
 
 <br>
 
