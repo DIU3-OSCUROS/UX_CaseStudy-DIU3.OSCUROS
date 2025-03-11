@@ -37,29 +37,44 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Esta es la primera vez que realizamos un análisis de usabilidad en profundidad, por lo que el objetivo principal es aprender a aplicar metodologías de investigación UX mientras evaluamos la plataforma Kerarqueo. Esta plataforma está enfocada en la venta de productos artesanales sostenibles, conectando a artesanos con compradores interesados en el consumo responsable. Pero, para mejorar su alcance y eficacia, es necesario evaluar su experiencia de usuario (UX) y detectar posibles áreas de mejora en navegación, accesibilidad y diseño.
+
+Para comprender mejor el contexto, primero realizaremos una investigación exploratoria sobre los estándares de usabilidad en plataformas similares. Se comparará Kerarqueo con Etsy y Amazon Handmade para identificar diferencias de UX y experiencia de compra. Además, recopilaremos datos directamente de usuarios a través de observaciones y encuestas, y un análisis de comportamiento del usuario mediante herramientas de navegación.
+
+La estrategia de investigación también incluirá pruebas de accesibilidad para garantizar que la plataforma sea funcional en distintos dispositivos y distintos tipos de usuarios. Con los resultados, podremos proponer mejoras en la estructura del sitio, optimizar el flujo de compra y reforzar la confianza del usuario, asegurando que Kerarqueo ofrezca una experiencia de usuario más intuitiva y competitiva en el sector de la artesanía sostenible.
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para evaluar la usabilidad y experiencia de usuario de **Kerarqueo**, se ha realizado un análisis comparativo con dos plataformas similares: **Etsy** y **Amazon Handmade**. Ambas son referentes en el sector de la venta de productos artesanales y sostenibles, lo que nos permite identificar puntos fuertes y áreas de mejora en **Kerarqueo**.
+
+El análisis se centró en aspectos clave como el modelo de negocio, accesibilidad, funcionalidad, usabilidad y experiencia de usuario. Se identificó que:
+
+- **Etsy** destaca por su comunidad consolidada y herramientas de personalización para vendedores, aunque sus **altas comisiones** pueden ser una barrera.  
+- **Amazon Handmade** aprovecha la infraestructura de Amazon, ofreciendo **alcance global** y un **sistema de compra eficiente**, pero con menos identidad artesanal y opciones de personalización para los vendedores.  
+- **Kerarqueo**, aunque con un nicho bien definido en sostenibilidad, aún presenta **áreas de mejora** en términos de **navegación, accesibilidad y optimización móvil**.  
+
+### Justificación de la Elección de Kerarqueo  
+
+Se ha seleccionado **Kerarqueo** como objeto de estudio debido a su enfoque en la **sostenibilidad** y el **comercio artesanal**. A pesar de sus fortalezas, presenta desafíos en **experiencia de usuario (UX)**, especialmente en la **estructura de navegación** y el proceso de compra. Comparado con Etsy y Amazon Handmade, Kerarqueo tiene la oportunidad de diferenciarse aún más si optimiza su usabilidad y accesibilidad.
+Este análisis nos permitirá definir estrategias para mejorar la plataforma, optimizar la conversión de usuarios en compradores y reforzar la competitividad de Kerarqueo en el mercado digital de productos sostenibles.
+
+ 
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
->>>
+
 >>> ## 1.c Personas
 
 
