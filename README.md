@@ -163,13 +163,13 @@ Este análisis incluye puntos positivos, críticas constructivas, preguntas surg
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
-Propuesta de valor, ahora representada visualmente mediante un Scope Canvas centrado en nuestra propuesta de valor: un sistema de reseñas tipo blog que mejora la confianza y navegabilidad en la web de Kerarqueo.
+Propuesta de valor visual representada mediante un Scope Canvas, centrada en la integración de reseñas tipo blog para mejorar la confianza, la exploración y la conversión de usuarios en la web de Kerarqueo.
 
-📄 [Scope Canvas Kerarqueo (PDF)](./P2/Scope%20Canvas%20Kerarqueo.pdf)
+📄 [Ver Scope Canvas en PDF](./P2/Scope%20Canvas%20Kerarqueo.pdf)
 
-También puedes ver una miniatura del recurso a continuación:
+Vista previa:
 
-![Scope Canvas Preview](./P2/Scope%20Canvas%20Kerarqueo.png)
+![Scope Canvas Kerarqueo](./P2/Scope%20Canvas%20Kearqueo.png)
 
 
 ### 2.b User Flow (task) analysis 
