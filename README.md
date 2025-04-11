@@ -9,11 +9,13 @@ Actualizado: 11/03/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+**KeroReseñas**
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra propuesta consiste en rediseñar la web de **Kerarqueo** integrando un espacio interactivo de reseñas y experiencias llamado **KeroReseñas**, que actúa como un blog centrado en valoraciones reales de usuarios.
+
+Este sistema permitirá a los visitantes consultar opiniones sobre productos y talleres, compartir sus vivencias tras participar en una experiencia, y filtrar contenido por intereses. Con ello buscamos aumentar la confianza, mejorar la navegación, y potenciar la conversión en reservas y compras dentro de la plataforma.
 
 Logotipo: 
 
