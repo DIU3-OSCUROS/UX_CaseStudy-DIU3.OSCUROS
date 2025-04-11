@@ -142,17 +142,22 @@ A pesar de estas limitaciones, con algunos ajustes en usabilidad y navegación, 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+## 2.a Reframing / IDEACIÓN: Feedback Capture Grid + Empathy Map
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Para comenzar el proceso de ideación, hemos realizado un **Feedback Capture Grid**, en el que recogemos los aspectos más relevantes observados en la experiencia de usuario sobre la web actual de Kerarqueo.
 
+Este análisis incluye puntos positivos, críticas constructivas, preguntas surgidas durante la navegación y nuevas ideas que nos ayudan a replantear el diseño. El resultado nos ha servido para concretar nuestra **propuesta de valor**, que será el eje de la solución planteada:
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+> **Propuesta de valor:** Transformar el blog de Kerarqueo en un espacio activo de reseñas, donde los usuarios puedan compartir experiencias, consultar opiniones reales y filtrar contenido según intereses, con el objetivo de generar mayor confianza, interacción y conversión.
+
+### 📌 Aspectos destacados del Feedback Capture Grid:
+- **Interesante:** Buena identidad visual, estética artesanal atractiva, uso de imágenes potentes.
+- **Críticas:** Menú desaparece al hacer scroll, falta de navegación clara, legibilidad pobre en móvil, el blog es estático y no permite interacción.
+- **Preguntas:** ¿Dónde estoy dentro de la web? ¿Puedo dejar una reseña? ¿Existe un buscador por categorías?
+- **Nuevas ideas:** Blog interactivo con reseñas valoradas, etiquetas temáticas, integración de experiencias de usuarios visibles desde el catálogo.
+
+📄 Puedes consultar el documento completo en:
+[P2/Feedback Capture Grid Kerarqueo.pdf](./P2/Feedback%20Capture%20Grid%20Kerarqueo.pdf)
 
 
 ### 2.b ScopeCanvas
