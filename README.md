@@ -198,12 +198,12 @@ Hemos diseñado la arquitectura de la información de la plataforma **Kerarqueo*
 #### 🗺️ Sitemap
 A continuación se muestra el diagrama con la jerarquía de navegación del sitio:
 
-![Sitemap Kerarqueo](SiteMap%20Kerarqueo.png)
+![Sitemap Kerarqueo](P2/SiteMap%20Kerarqueo.png)
 
 #### 📄 User Map y Labelling
 Incluye un análisis por perfiles de usuario (Laura y Javier), así como una tabla con los términos principales utilizados en la interfaz, evitando el spanglish y asociando iconos claros. Esto mejora la comprensión de la plataforma y la experiencia del usuario.
 
-📎 [Ver documento completo en PDF](User%20Map%20y%20labelling.pdf)
+📎 [Ver documento completo en PDF](P2/User%20Map%20y%20labelling.pdf)
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
