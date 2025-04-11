@@ -224,7 +224,11 @@ Los wireframes propuestos permiten visualizar la estructura de la interfaz y la 
 - **Carrito de compra:** listado de productos, ajustes de cantidad, botón de compra final.
 - **Login / Crear cuenta:** formulario de inicio de sesión y registro para ser "KeroUsuario".
 
-Estos bocetos sirvieron como punto de partida para validar la propuesta con el equipo y el profesorado, y serán refinados en el siguiente paso de prototipado en Figma.
+Además, por si fuera necesario, también se incluye el documento con los **primeros bocetos a mano** que fueron validados por el profesor antes de desarrollar los wireframes finales en Figma:
+
+📝 [Bocetos iniciales a mano (versión sucia)](P2/SUCIO%20a%20mano%20Bocetos.pdf)
+
+Estos bocetos sirvieron como punto de partida para validar la propuesta con el equipo docente y pasar al prototipado digital.
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
