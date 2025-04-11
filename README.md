@@ -228,7 +228,7 @@ Además, por si fuera necesario, también se incluye el documento con los **prim
 
 📝 [Bocetos iniciales a mano (versión sucia)](P2/SUCIO%20a%20mano%20Bocetos.pdf)
 
-Estos bocetos sirvieron como punto de partida para validar la propuesta con el equipo docente y pasar al prototipado digital.
+Estos bocetos sirvieron como punto de partida para validar la propuesta y pasar al prototipado digital.
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
