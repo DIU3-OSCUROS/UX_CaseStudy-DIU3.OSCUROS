@@ -195,27 +195,15 @@ Puedes consultar los diagramas completos en los siguientes enlaces:
 ----
 Hemos diseñado la arquitectura de la información de la plataforma **Kerarqueo**, estructurando de forma clara las pantallas principales y definiendo los términos clave que guiarán el diálogo con los usuarios.
 
-#### 📌 Sitemap
+#### 🗺️ Sitemap
 A continuación se muestra el diagrama con la jerarquía de navegación del sitio:
 
 ![Sitemap Kerarqueo](SiteMap%20Kerarqueo.png)
 
-#### 📌 User Map y Labelling
+#### 📄 User Map y Labelling
 Incluye un análisis por perfiles de usuario (Laura y Javier), así como una tabla con los términos principales utilizados en la interfaz, evitando el spanglish y asociando iconos claros. Esto mejora la comprensión de la plataforma y la experiencia del usuario.
 
-👉 [Ver documento completo en PDF](User%20Map%20y%20labelling.pdf)
-
-#### 🏷️ Tabla de etiquetado (labelling) - Ejemplos:
-
-| Término             | Significado                                                                 |
-|---------------------|------------------------------------------------------------------------------|
-| **Login**           | Acceder a la plataforma.                                                     |
-| **Categoría Ibérica** | Productos con motivos íberos y formas geométricas tradicionales.           |
-| **Categoría Romana** | Cerámica artesanal inspirada en el estilo romano (ánforas, vajillas, etc.). |
-| **KeroReseñas**     | Opiniones de usuarios visibles en las fichas de producto y blog.             |
-| **KeroCursos**      | Cursos impartidos en el taller disponibles para inscripción.                 |
-| **KeroBlog**        | Blog con artículos sobre cerámica, sostenibilidad y cultura artesanal.       |
-| **Carrito**         | Sección donde se gestionan las reservas y compras realizadas.                |
+📎 [Ver documento completo en PDF](User%20Map%20y%20labelling.pdf)
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
