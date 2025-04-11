@@ -176,7 +176,18 @@ Vista previa:
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+En esta sección se han definido dos flujos de tareas clave para nuestra web:
+
+1. **Búsqueda de productos o experiencias**  
+   Se analiza el recorrido del usuario desde el inicio hasta la visualización de un producto específico. Se contemplan casos con y sin resultados disponibles.
+
+2. **Proceso de reserva**  
+   Describe cómo el usuario realiza una reserva desde que accede a la web hasta que recibe el correo de confirmación, incluyendo validaciones de campos y mensajes de error.
+
+Puedes consultar los diagramas completos en los siguientes enlaces:
+
+📄 [Task Flow 1: Buscar experiencia o producto](P2/Taskflow1.pdf)  
+📄 [Task Flow 2: Reservar experiencia](P2/Taskflow2.pdf)
 
 
 ### 2.c IA: Sitemap + Labelling 
