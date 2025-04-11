@@ -209,8 +209,22 @@ Incluye un análisis por perfiles de usuario (Laura y Javier), así como una tab
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+En esta fase del prototipo hemos realizado una primera versión **Lo-Fi en papel** de las pantallas principales del sitio web de **Kerarqueo**, centradas en las funcionalidades clave: navegación, catálogo de productos, reservas, cursos, contacto y sistema de reseñas tipo blog.
 
+Los wireframes propuestos permiten visualizar la estructura de la interfaz y la jerarquía de los elementos, lo que ha servido como base para el posterior diseño digital en Figma.
+
+📄 [Ver documento completo de wireframes (PDF)](P2/WireframesDIU.pdf)
+
+#### 📌 Pantallas incluidas en los wireframes:
+- **Inicio:** navegación principal, acceso directo a catálogo, cursos y KeroBlog.
+- **Catálogo:** filtros por categoría (Ibérica, Romana), ordenación por precio o nombre.
+- **Ficha de producto o curso:** imagen, descripción, precio, botón de reservar o comprar.
+- **Sistema de reseñas (KeroReseñas):** opiniones visibles debajo del producto o curso.
+- **Formulario de contacto:** nombre, email y mensaje.
+- **Carrito de compra:** listado de productos, ajustes de cantidad, botón de compra final.
+- **Login / Crear cuenta:** formulario de inicio de sesión y registro para ser "KeroUsuario".
+
+Estos bocetos sirvieron como punto de partida para validar la propuesta con el equipo y el profesorado, y serán refinados en el siguiente paso de prototipado en Figma.
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
