@@ -32,7 +32,7 @@ Durante el desarrollo de esta segunda práctica del Case Study, hemos planteado 
 
 La práctica ha seguido un proceso iterativo que ha incluido:
 
-- 🧠 **Ideación y análisis de necesidades**, recogidas en el [Feedback Capture Grid](P2/Feedback%20Capture%20Grid%20Kerarqueo.pdf) y el [Empathy Map](P2/User%20Map%20y%20labelling.pdf).
+- 🧠 **Ideación y análisis de necesidades**, recogidas en el [Feedback Capture Grid](P2/Feedback%20Capture%20Grid%20Kerarqueo.pdf)
 - 🎯 **Definición de propuesta de valor** a través del [Scope Canvas](P2/Scope%20Canvas%20Kerarqueo.pdf), alineada con nuestra solución.
 - 🔄 **Análisis de tareas clave** mediante los [Task Flows](P2/Taskflow1.pdf) y [Taskflow2](P2/Taskflow2.pdf), que nos han permitido identificar los recorridos reales de los usuarios.
 - 🧭 **Arquitectura de la información**, representada en el [SiteMap](P2/SiteMap%20Kerarqueo.png) y el documento de [labelling y prioridades](P2/User%20Map%20y%20labelling.pdf).
