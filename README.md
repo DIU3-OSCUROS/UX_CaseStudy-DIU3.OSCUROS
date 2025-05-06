@@ -242,9 +242,26 @@ Estos bocetos sirvieron como punto de partida para validar la propuesta y pasar 
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Este es el moodboard para nuestro proyecto **Kerarqueo**, el cual recoge los principales aspectos visuales y estratégicos de nuestra propuesta:
+
+- Nuestra estrategia de marca: conectar lo artesanal con lo digital mediante una experiencia de compra basada en la confianza, la historia y la estética del trabajo hecho a mano.
+- Nuestro logotipo final: una vasija inspirada en cerámica ibérica, con un diseño minimalista y cálido.
+- El eslogan: *“Artesanía que conecta”*, transmitiendo cercanía y valor emocional.
+- Paleta de colores: basada en tonos terrosos y naturales que refuerzan la conexión con lo hecho a mano.
+  - Verde olivo `#A3B18A`
+  - Terracota `#E07A5F`
+  - Beige claro `#F5F5DC`
+  - Gris piedra `#6E6658`
+  - Blanco roto `#FAF9F6`
+  - CAMBIAR ESTOS COLORES QUE AL FINAL HEMOS USADO OTROS!!!!!!!!!!!!!!!!!
+- Tipografías:
+  - **Playfair Display**, para títulos: elegante, clásica, transmite tradición.
+  - **Inter**, para texto: limpia, moderna, mejora la legibilidad y contrasta con la anterior.
+- Imágenes: seleccionadas para reforzar la estética cálida, artesanal y humana del proyecto, con escenas de alfarería, talleres y personas creando o disfrutando productos cerámicos.
+
+📄 [Ver el Moodboard (PDF)](P3/Moodboard.pdf)
+
+Estas decisiones visuales están pensadas para usarse de forma coherente en todos los elementos visuales del proyecto (redes sociales, web, branding físico, etc.), y podrían reutilizarse como cabecera de Instagram o banners de comunicación.
 
 
 ### 3.b Landing Page
