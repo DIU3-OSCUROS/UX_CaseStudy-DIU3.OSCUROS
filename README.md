@@ -246,7 +246,7 @@ Este es el moodboard para nuestro proyecto **Kerarqueo**, el cual recoge los pri
 
 - Nuestra estrategia de marca: conectar lo artesanal con lo digital mediante una experiencia de compra basada en la confianza, la historia y la estética del trabajo hecho a mano.
 - Nuestro logotipo final: una vasija inspirada en cerámica ibérica, con un diseño minimalista y cálido.
-- El eslogan: *“Artesanía que conecta”*, transmitiendo cercanía y valor emocional.
+- El eslogan: *“Descubre historias que se cuecen a fuego lento”*, transmitiendo calidez y cercanía, vinculando los productos con la experiencia personal de quienes los crean.
 - Paleta de colores: basada en tonos terrosos y naturales que refuerzan la conexión con lo hecho a mano.
   - Verde olivo `#A3B18A`
   - Terracota `#E07A5F`
