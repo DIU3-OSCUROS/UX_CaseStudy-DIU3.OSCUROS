@@ -267,7 +267,9 @@ con un aire limpio y contemporáneo, reflejando el espíritu artesanal de Kerarq
     
 - Imágenes: seleccionadas para reforzar la estética cálida, artesanal y humana del proyecto, con escenas de alfarería, talleres y personas creando o disfrutando productos cerámicos.
 
-📄 [Ver el Moodboard (PDF)](P3/Moodboard.pdf)
+📄 [Ver Moodboard en PDF](./P3/Kerarqueo_Moodboard25.pdf)
+
+![Moodboard Kerarqueo](./P3/Kerarqueo_Moodboard25.png)
 
 Estas decisiones visuales están pensadas para usarse de forma coherente en todos los elementos visuales del proyecto (redes sociales, web, branding físico, etc.), y podrían reutilizarse como cabecera de Instagram o banners de comunicación.
 
