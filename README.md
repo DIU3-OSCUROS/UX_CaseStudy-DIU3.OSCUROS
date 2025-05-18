@@ -318,7 +318,12 @@ En el documento se incluyen:
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+📄 [Ver Layout Hi-Fi en PDF](./P3/LayoutHIFI.pdf)
+
+Se ha diseñado un mockup interactivo adaptado a dispositivos móviles, siguiendo los patrones de Material Design 3.  
+Incluye pantallas clave como onboarding, login, menú inferior, carrousels, formularios, cards de producto y carrito.  
+Los componentes fueron construidos con el plugin oficial de Material 3 en Figma, aplicando nuestra paleta de colores y tipografías.
+
 
 
 ### 3.e ¿My UX-Case Study?
