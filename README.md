@@ -318,11 +318,13 @@ En el documento se incluyen:
 ![Método UX](img/mockup.png) 
 ----
 
-📄 [Ver Layout Hi-Fi en PDF](./P3/LayoutHIFI.pdf)
+📄 [Ver Layout Hi-Fi en PDF](./P3/LayoutHIFI.pdf)  
+📎 [Descargar archivo Figma Kerarqueo](./P3/Kerarqueo.fig)
 
 Se ha diseñado un mockup interactivo adaptado a dispositivos móviles, siguiendo los patrones de Material Design 3.  
 Incluye pantallas clave como onboarding, login, menú inferior, carrousels, formularios, cards de producto y carrito.  
 Los componentes fueron construidos con el plugin oficial de Material 3 en Figma, aplicando nuestra paleta de colores y tipografías.
+
 
 
 
