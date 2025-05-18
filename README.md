@@ -280,7 +280,25 @@ Estas decisiones visuales están pensadas para usarse de forma coherente en todo
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+📄 [Ver Landing Page en PDF](./P3/Kerarqueo_Landingpage.pdf)
+
+Vista previa:
+
+![Landing Page Kerarqueo](./P3/Kerarqueo_Landingpage.png)
+
+---
+
+La Landing Page del proyecto **Kerarqueo** está diseñada para dar una primera impresión atractiva, visual y coherente con el moodboard definido previamente. Hemos aplicado la estética artesanal, cálida y natural basada en nuestra propuesta de valor: acercar la cerámica tradicional a cualquier usuario, de forma presencial o digital.
+
+**Elementos incluidos:**
+
+- 🧩 **Título y subtítulo** motivadores: invitan al usuario a crear sus propias piezas y disfrutar del proceso creativo.
+- 🎨 **Imágenes representativas**: distribuidas en secciones clave (comunidad, conexión, tradición), transmiten la esencia del proyecto con fotografías cálidas e inspiradoras generadas específicamente.
+- ✅ **Beneficios destacados**: se explican tres aspectos clave del servicio: aprender en comunidad, sentir la conexión con el barro, y reconectar con la tradición.
+- 📱 **Call to Action (CTA)** claro: un botón principal que invita a descargar la app.
+
+Este diseño servirá como referencia visual para la web o como cabecera promocional en redes sociales (por ejemplo, Instagram o newsletters).
+
 
 
 ### 3.c Guidelines
