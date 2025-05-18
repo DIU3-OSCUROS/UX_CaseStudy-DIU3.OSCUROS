@@ -235,7 +235,6 @@ Estos bocetos sirvieron como punto de partida para validar la propuesta y pasar 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 3.a Moodboard
@@ -284,7 +283,7 @@ Estas decisiones visuales están pensadas para usarse de forma coherente en todo
 
 Vista previa:
 
-![Landing Page Kerarqueo](./P3/Kerarqueo_Landingpage.png)
+![Landing Page Kerarqueo](./P3/Kerarqueo_Landingpage.jpg)
 
 ---
 
