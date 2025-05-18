@@ -284,9 +284,15 @@ Estas decisiones visuales están pensadas para usarse de forma coherente en todo
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
+📄 [Ver Kerarqueo Guidelines en PDF](./P3/Kerarqueo_Guidelines.pdf)
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Este documento recoge el estudio de los **UI Guidelines** y patrones de diseño utilizados en el prototipo móvil de Kerarqueo. Se ha seguido el sistema **Google Material Design 3**, utilizando su plugin oficial en Figma, lo que nos ha permitido aplicar componentes consistentes, accesibles y visualmente acordes a nuestra identidad de marca.
+
+En el documento se incluyen:
+- Paleta de colores cálidos inspirados en materiales naturales.
+- Tipografías utilizadas (Playfair Display, Inter y Roboto).
+- Componentes UI implementados: onboarding, menús, carruseles, formularios, carrito, sección “about”, etc.
+- Elementos adicionales: mapa, reseñas, etiquetas, chat flotante, scroll y switches.
 
 
 ### 3.d Mockup
