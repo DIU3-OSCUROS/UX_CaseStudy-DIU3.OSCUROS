@@ -336,6 +336,7 @@ Los componentes fueron construidos con el plugin oficial de Material 3 en Figma,
 El prototipo completo y navegable puede consultarse en Figma:
 
 🔗 [Ver prototipo interactivo en Figma](https://www.figma.com/proto/NlA3BbSNn9fqJOMWUlxC2T/Kerarqueo?node-id=0-1&t=Fb8nlqdH0l3XABAt-1)
+📱 [Ver bocetos de Figma (Kerarqueo)](https://www.figma.com/design/NlA3BbSNn9fqJOMWUlxC2T/Kerarqueo?node-id=0-1&t=0NahN5nC1YKJm5HH-1)
 
 También se incluye el archivo `.fig` descargable en la carpeta `/P3`:
 
