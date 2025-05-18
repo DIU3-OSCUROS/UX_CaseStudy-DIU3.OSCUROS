@@ -19,7 +19,8 @@ Este sistema permitirá a los visitantes consultar opiniones sobre productos y t
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo Kerarqueo](./P3/Kerarqueo_logo.jpg)
+
 
 Miembros:
  * :bust_in_silhouette:  Jesús Reyes de Toro     :octocat:     
@@ -332,8 +333,13 @@ Los componentes fueron construidos con el plugin oficial de Material 3 en Figma,
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+El prototipo completo y navegable puede consultarse en Figma:
+
+🔗 [Ver prototipo interactivo en Figma](https://www.figma.com/proto/NlA3BbSNn9fqJOMWUlxC2T/Kerarqueo?node-id=0-1&t=Fb8nlqdH0l3XABAt-1)
+
+También se incluye el archivo `.fig` descargable en la carpeta `/P3`:
+
+📎 [Descargar archivo Figma](./P3/Kerarqueo.fig)
 
 <br>
 
