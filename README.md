@@ -260,10 +260,12 @@ con un aire limpio y contemporáneo, reflejando el espíritu artesanal de Kerarq
 - ![#6E6658](https://via.placeholder.com/15/6E6658/000000?text=+) `#6E6658` Gris piedra  
 - ![#B8B8B8](https://via.placeholder.com/15/B8B8B8/000000?text=+) `#B8B8B8` Gris neutro  
 - ![#D6C2A0](https://via.placeholder.com/15/D6C2A0/000000?text=+) `#D6C2A0` Beige claro
+- ![#D6C2A0](https://via.placeholder.com/15/83930E/000000?text=+) `#83930E` Verde Oliva
 
 - Tipografías:
   - **Playfair Display**, para títulos: elegante, clásica, transmite tradición.
   - **Inter**, para texto: limpia, moderna, mejora la legibilidad y contrasta con la anterior.
+  - **Roboto**, para footer.
     
 - Imágenes: seleccionadas para reforzar la estética cálida, artesanal y humana del proyecto, con escenas de alfarería, talleres y personas creando o disfrutando productos cerámicos.
 
