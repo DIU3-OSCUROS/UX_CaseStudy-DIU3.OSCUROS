@@ -374,11 +374,37 @@ También se incluye el archivo `.fig` descargable en la carpeta `/P3`:
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
+### 4.c Cuestionario SUS
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Como parte de las pruebas A/B, se ha utilizado el **Cuestionario SUS (System Usability Scale)** para valorar la percepción de usabilidad de cada prototipo. Se ha aplicado a 4 usuarios (2 por caso), y se ha calculado el resultado utilizando la hoja oficial proporcionada por la asignatura.
+
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+||PREGUNTAS|1|2|3|4|5|
+|1|Creo que me gustará visitar con frecuencia este website||✔️|✔️||✔️|
+|2|Encontré el website innecesariamente complejo|✔️|||✔️||
+|3|Pensé que era fácil utilizar este website||✔️|✔️||✔️|
+|4|Creo que necesitaría del apoyo de un experto para recorrer el website|✔️|||✔️||
+|5|Encontré las funciones del website bastante bien integradas||✔️|✔️||✔️|
+|6|Pensé que había demasiada inconsistencia en el website|✔️|||✔️||
+|7|Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website||✔️|✔️||✔️|
+|8|Encontré el website muy grande al recorrerlo|✔️|||✔️||
+|9|Me sentí muy confiado en el manejo del website||✔️|✔️||✔️|
+|10|Necesito aprender muchas cosas antes de manejarse en el website|✔️|||✔️||
+
+| Usuario   | Caso Evaluado       | SUS Score | Etiqueta             |
+|-----------|---------------------|-----------|----------------------|
+| Usuario 1 | A (Kerarqueo)       | 92.5      | Aceptable Tipo A     |
+| Usuario 2 | A (Kerarqueo)       | 95        | Aceptable Tipo A     |
+| Usuario 3 | B (Jardín Alhambra) | 92.5      | Aceptable Tipo A     |
+| Usuario 4 | B (Jardín Alhambra) | 97.5      | Aceptable Tipo A     |
+| **Media A** |                     | **93.75** | **Aceptable Tipo A** |
+| **Media B** |                     | **95.00** | **Aceptable Tipo A** |
+
+📎 [Ver hoja de cálculo SUS](./P4/P4_SUS_Kerarqueo.xlsx)
+
+**Valoración personal**:  
+Los resultados del cuestionario SUS reflejan una **excelente percepción de usabilidad** en ambos prototipos. Todos los usuarios puntuaron por encima de 90, lo que se traduce en una experiencia de uso satisfactoria, clara y coherente. Los comentarios positivos valoran especialmente la estética visual, la facilidad para encontrar lo que se busca y la navegación por menús y secciones. En el caso de Kerarqueo, los usuarios destacaron la claridad de las acciones principales y el atractivo visual. El caso B (Jardín Alhambra) también obtiene una muy buena valoración, especialmente por la ambientación visual y estructura limpia.
 
 
 ### 4.d A/B Testing
