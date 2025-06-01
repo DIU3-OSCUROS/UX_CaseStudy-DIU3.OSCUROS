@@ -462,11 +462,23 @@ Ambas versiones muestran una experiencia muy positiva, pero el **Caso A (Kerarqu
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
+Para analizar el foco visual de los usuarios sobre la interfaz del Caso B (Jardín Alhambra), hemos utilizado la herramienta **GazeRecorder**, que permite generar mapas de calor a partir de la interacción visual del usuario con imágenes estáticas del prototipo.
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+Se diseñó un experimento donde los usuarios visualizaron distintas pantallas clave del prototipo durante 5 segundos. En cada imagen se definieron **Áreas de Interés (AOI)** como botones, menús principales o elementos destacados de navegación. A los usuarios se les indicó tareas como:
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+- “Inicia sesión y localiza las catas disponibles”
+- “Identifica el botón de registro”
+- “Explora la pantalla principal buscando información relevante”
+
+Se seleccionaron 3 usuarios (2 objetivos y 1 del equipo de diseño) para maximizar la fiabilidad del experimento dentro de las limitaciones de la versión gratuita de la herramienta. La prueba fue realizada en remoto, y se recogieron los resultados en forma de mapas de calor.
+
+#### 🔗 Documento completo del experimento:
+[📄 Ver PDF de Eye Tracking - Caso B (Jardín Alhambra)](./P4/P4_CasoB_Eyetracking.pdf)
+
+#### 📷 Captura del experimento:
+![experimento](P4/CasoB_Ejemplo1.png)
+
+>>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione)
 
 
 ### 4.f Usability Report de B
