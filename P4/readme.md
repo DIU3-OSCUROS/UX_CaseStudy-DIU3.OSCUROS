@@ -13,5 +13,10 @@
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Durante la realización de esta Práctica 4 hemos profundizado en técnicas de evaluación de usabilidad como A/B testing, cuestionarios SUS, eye tracking y test con usuarios mediante Maze. Estas herramientas nos han permitido detectar con precisión tanto fortalezas como puntos de mejora en los dos prototipos analizados (nuestro diseño "Kerarqueo" y el proyecto "Jardín Alhambra").
+
+La experiencia ha reforzado nuestra comprensión sobre la importancia de validar los diseños con usuarios reales, recogiendo datos tanto cuantitativos como cualitativos. Consideramos que este enfoque iterativo de evaluación es esencial en cualquier proceso de diseño centrado en el usuario.
+
+> 📎 Consulta todas las evidencias en la carpeta [`/P4`](./P4), donde se incluyen los informes, mapas de calor, hojas SUS, capturas de pantalla y resultados detallados de cada test realizado.
+
+En conclusión, esta práctica ha sido altamente enriquecedora tanto a nivel técnico como metodológico, consolidando nuestro aprendizaje sobre cómo evaluar, justificar y mejorar la experiencia de usuario desde una perspectiva crítica y fundamentada.
