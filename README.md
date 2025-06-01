@@ -459,26 +459,29 @@ Ambas versiones muestran una experiencia muy positiva, pero el **Caso A (Kerarqu
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
+Para aplicar técnicas de **Eye Tracking** se ha utilizado la herramienta gratuita [GazeRecorder](https://www.gazerecorder.com/) que permite generar mapas de calor a partir de la interacción visual de los usuarios con prototipos o imágenes concretas.
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Se diseñó un experimento A/B con imágenes estáticas correspondientes a pantallas clave de los dos prototipos, aunque sabiamos que solo se pedía para el caso B, pero por curiosidad por esta herramienta, hemos aplicado también a nuestro proyecto:
 
-Para analizar el foco visual de los usuarios sobre la interfaz del Caso B (Jardín Alhambra), hemos utilizado la herramienta **GazeRecorder**, que permite generar mapas de calor a partir de la interacción visual del usuario con imágenes estáticas del prototipo.
+- **Caso A: Kerarqueo**  
+- **Caso B: Jardín Alhambra**
 
-Se diseñó un experimento donde los usuarios visualizaron distintas pantallas clave del prototipo durante 5 segundos. En cada imagen se definieron **Áreas de Interés (AOI)** como botones, menús principales o elementos destacados de navegación. A los usuarios se les indicó tareas como:
+En ambos casos, los participantes visualizaron cada imagen durante 5 segundos y se les planteó una tarea sencilla (ej. "localiza el botón de inicio de sesión", "busca la sección de talleres", etc.).
 
-- “Inicia sesión y localiza las catas disponibles”
-- “Identifica el botón de registro”
-- “Explora la pantalla principal buscando información relevante”
+Cada grupo fue evaluado por **tres usuarios** (2 reales y 1 experto del equipo de diseño), generando mapas de calor con diferencias notables en cuanto a los focos de atención y la distribución visual.
 
-Se seleccionaron 3 usuarios (2 objetivos y 1 del equipo de diseño) para maximizar la fiabilidad del experimento dentro de las limitaciones de la versión gratuita de la herramienta. La prueba fue realizada en remoto, y se recogieron los resultados en forma de mapas de calor.
+#### 📄 Informes completos de Eye Tracking:
+- [🔍 Ver Eye Tracking - Caso A (Kerarqueo)](./P4/P4_CasoA_Eyetracking.pdf)
+- [🔍 Ver Eye Tracking - Caso B (Jardín Alhambra)](./P4/P4_CasoB_Eyetracking.pdf)
 
-#### 🔗 Documento completo del experimento:
-[📄 Ver PDF de Eye Tracking - Caso B (Jardín Alhambra)](./P4/P4_CasoB_Eyetracking.pdf)
+#### 📸 Imágenes de prueba:
 
-#### 📷 Captura del experimento:
-![experimento](P4/CasoB_Ejemplo1.png)
+**Caso A - Kerarqueo**
+![EyeTracking Kerarqueo](P4/CasoA_Resumen.png)
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione)
+**Caso B - Jardín Alhambra**
+![EyeTracking Jardín Alhambra](P4/CasoB_Resumen.png)
+
 
 
 ### 4.f Usability Report de B
