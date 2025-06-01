@@ -437,7 +437,24 @@ Los resultados del cuestionario SUS reflejan una **excelente percepción de usab
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+
+Se ha realizado un test A/B utilizando la herramienta Maze. Se han evaluado dos prototipos:
+
+- **Caso A**: Nuestro diseño, Kerarqueo.
+- **Caso B**: Diseño del grupo DIU2 - Jardín Alhambra.
+
+Se han asignado 2 o 3 usuarios a cada uno de los casos, quienes realizaron tareas similares en ambos entornos. Tras completar las tareas, se les solicitó evaluar la experiencia a través de un cuestionario SUS y escalas de opinión. 
+
+A continuación, se resumen los resultados en una tabla comparativa:
+
+| Tarea evaluada                       | Caso A (Kerarqueo)         | Caso B (Jardín Alhambra)    |
+|-------------------------------------|-----------------------------|-----------------------------|
+| 1. Iniciar sesión                   | 100% éxito - 2.1s - SUS 95 | 100% éxito - 3.1s - SUS 92 |
+| 2. Acceder a sección de talleres/catas | 100% éxito - 3.4s           | 100% éxito - 3.9s           |
+| 3. Escala de navegación (1-10)      | 10/10                       | 9.3/10                      |
+
+**Resultado global:**  
+Ambas versiones muestran una experiencia muy positiva, pero el **Caso A (Kerarqueo)** destaca ligeramente por una navegación más fluida y puntuaciones ligeramente más altas tanto en tareas como en escalas de opinión. Por tanto, concluimos que **el caso A ha resultado más usable en esta comparación**.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
