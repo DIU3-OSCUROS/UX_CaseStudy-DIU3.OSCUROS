@@ -374,7 +374,7 @@ También se incluye el archivo `.fig` descargable en la carpeta `/P3`:
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
-### 4.c Cuestionario SUS
+
 
 Como parte de las pruebas A/B, se ha utilizado el **Cuestionario SUS (System Usability Scale)** para valorar la percepción de usabilidad de cada prototipo. Se ha aplicado a 4 usuarios (2 por caso), y se ha calculado el resultado utilizando la hoja oficial proporcionada por la asignatura.
 
