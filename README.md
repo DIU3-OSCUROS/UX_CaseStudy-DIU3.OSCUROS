@@ -495,10 +495,66 @@ Cada grupo fue evaluado por **tres usuarios** (2 reales y 1 experto del equipo d
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+**Reporte de Usabilidad para "Jardín Alhambra" (Caso B)**  
+_El equipo DIU3 - OSCUROS ha evaluado la propuesta del grupo DIU2 - UXers, correspondiente al prototipo “Jardín Alhambra”._
+
+**Análisis General:**
+
+El diseño del prototipo es visualmente atractivo y cuenta con una estética cuidada, coherente con la marca Alhambra. Se observa un uso efectivo de elementos visuales como imágenes, tipografía y botones. Sin embargo, se han detectado algunas oportunidades de mejora en términos de usabilidad e interacción que conviene destacar.
+
+---
+
+**Resultados del A/B Testing y Cuestionario SUS**
+
+| Tarea evaluada                       | Caso A (Kerarqueo)                    | Caso B (Jardín Alhambra)              |
+|-------------------------------------|--------------------------------------|---------------------------------------|
+| Iniciar sesión                      | 100% éxito - 2.1s - SUS 95           | 100% éxito - 3.1s - SUS 92            |
+| Acceder a sección de talleres/catas| 100% éxito - 3.4s                    | 100% éxito - 3.9s                     |
+| Escala de navegación (1-10)        | 10/10                                | 9.3/10                                |
+
+Ambos casos muestran una experiencia de usuario notable. Sin embargo, Kerarqueo destaca ligeramente en tiempos medios y claridad de tareas. Jardín Alhambra obtiene también valoraciones sobresalientes.
+
+---
+
+**Resultados del Eye Tracking**
+
+El análisis de mapas de calor revela lo siguiente:
+
+- **Pantalla de Inicio**: Los usuarios se han centrado claramente en los botones “Iniciar sesión” y “Registrarse”, lo cual es positivo.
+- **Pantalla de Actividad Destacada**: El botón de reserva es llamativo, aunque algunos usuarios no fijaron inicialmente la atención en el contenido central.
+- **Menú de Navegación**: El área de pestañas (Conciertos, Talleres, Visitas) atrajo la atención, pero la pestaña activa no siempre fue correctamente distinguida.
+
+Ver el informe completo aquí:  
+📎 [P4_CasoB_Eyetracking.pdf](./P4/P4_CasoB_Eyetracking.pdf)
+
+---
+
+**Puntos de Mejora Detectados:**
+
+- **Claridad en las Pestañas**: Algunos usuarios no diferenciaron correctamente qué sección estaba activa. Se recomienda reforzar el contraste y señalización visual.
+- **Botones de acción similares**: Se observó cierta confusión con los botones de "Ver más" y "Reservar", que tienen diseño similar y pueden no diferenciarse bien por función.
+- **Información jerárquica**: En secciones con múltiples eventos similares (ej. conciertos), el usuario tuvo dificultades para identificar diferencias clave. Una solución sería reforzar títulos o usar badges.
+
+---
+
+**Puntos Fuertes del Diseño:**
+
+- Paleta cromática muy cuidada, coherente con la marca.
+- Tipografía clara, estética moderna.
+- Navegación sencilla y estructura visual limpia.
+- Secciones como “Actividad Destacada” y la presentación de la marca están muy bien resueltas visualmente.
+
+---
+
+### Valoración Personal del Equipo
+
+La evaluación del prototipo Jardín Alhambra ha sido muy positiva. A pesar de algunos ajustes recomendables en navegación y señalización visual, se trata de un diseño sólido, atractivo y funcional. Nos ha sorprendido el equilibrio entre estética y estructura. Las pruebas han confirmado una buena comprensión de las tareas planteadas por parte de los usuarios.
+
+---
+
+📎 El informe completo de este análisis está disponible aquí:  
+**📝 [`P4_UsabReport_JardinAlhambra_doneby_DIU3_OSCUROS.md`](./P4/P4_UsabReport_JardinAlhambra_doneby_DIU3_OSCUROS.md)**
 
 
 
