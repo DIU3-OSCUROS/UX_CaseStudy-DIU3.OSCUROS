@@ -554,7 +554,7 @@ La evaluación del prototipo Jardín Alhambra ha sido muy positiva. A pesar de a
 ---
 
 📎 El informe completo de este análisis está disponible aquí:  
-**📝 [`P4_UsabReport_JardinAlhambra_doneby_DIU3_OSCUROS.md`](./P4/P4_UsabReport_JardinAlhambra_doneby_DIU3_OSCUROS.md)**
+**📝 [`P4_UsabReport_JardinAlhambra_doneby_DIU3_OSCUROS.pdf`](./P4/P4_UsabReport_JardinAlhambra_doneby_DIU3_OSCUROS.pdf)**
 
 
 
