@@ -367,7 +367,33 @@ También se incluye el archivo `.fig` descargable en la carpeta `/P3`:
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+
+Para el diseño del experimento de evaluación de usabilidad hemos utilizado la herramienta **Maze**, que permite testear prototipos directamente integrados desde Figma y recoger métricas clave a través de tareas, preguntas y mapas de calor.
+
+Hemos diseñado un test completo bajo la estrategia de A/B testing, que incluye distintos tipos de bloques dentro de Maze, todos ellos orientados a analizar la experiencia real de los usuarios interactuando con nuestro prototipo de **Kerarqueo** (caso A) y el prototipo del grupo **Jardín Alhambra** (caso B).
+
+Las pruebas que se han planteado incluyen:
+
+- ✅ **Prototype Test (2 tareas guiadas)**:  
+  Los usuarios deben completar dos misiones con objetivo claro:  
+  1. Iniciar sesión en la app.  
+  2. Acceder a la sección de “Talleres” desde la pantalla principal.  
+  Se mide la tasa de éxito, la tasa de abandono y el tiempo invertido en la tarea.  
+
+- ✅ **Opinion Scale**:  
+  Pregunta sobre la facilidad de navegación general, utilizando una escala del 1 (muy difícil) al 10 (muy fácil).  
+
+- ✅ **Multiple Choice**:  
+  Se pregunta por el elemento más útil de la app entre varias opciones como: catálogo de productos, acceso al perfil, reseñas, etc.  
+
+- ✅ **Open Question**:  
+  Pregunta abierta que permite obtener feedback cualitativo sobre mejoras en la sección de inicio de sesión.  
+
+- ✅ **Screener** (pregunta filtrada):  
+  Se pregunta si el usuario tiene experiencia previa utilizando apps de compra o reserva de actividades, para segmentar respuestas.  
+
+Todas estas pruebas han sido diseñadas para recoger datos cuantitativos y cualitativos sobre la interacción con el prototipo, y nos han permitido obtener resultados fiables que luego se han analizado y documentado en el informe de evaluación.
+
 
 
 
