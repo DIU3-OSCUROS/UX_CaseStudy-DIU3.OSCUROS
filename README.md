@@ -427,7 +427,14 @@ Como parte de las pruebas A/B, se ha utilizado el **Cuestionario SUS (System Usa
 | **Media A** |                     | **93.75** | **Aceptable Tipo A** |
 | **Media B** |                     | **95.00** | **Aceptable Tipo A** |
 
-📎 [Ver hoja de cálculo SUS](./P4/P4_SUS_Kerarqueo.xlsx)
+Tras la realización de las pruebas A/B, se pidió a los usuarios completar el cuestionario estándar **System Usability Scale (SUS)**. Se recopilaron las respuestas y se calcularon las puntuaciones totales para cada prototipo.
+
+- [📄 Ver Cuestionario SUS en PDF](./P4/Cuestionario_SUS_DIU.pdf)
+- [📊 Ver Cuestionario SUS en Excel (calculadora)](./P4/Cuestionario_SUS_DIU.xlsx)
+
+**Resumen visual:**
+![Cuestionario SUS_1](./P4/Cuestionario_SUS_DIU_1.png)
+![Cuestionario SUS_2](./P4/Cuestionario_SUS_DIU_2.png)
 
 **Valoración personal**:  
 Los resultados del cuestionario SUS reflejan una **excelente percepción de usabilidad** en ambos prototipos. Todos los usuarios puntuaron por encima de 90, lo que se traduce en una experiencia de uso satisfactoria, clara y coherente. Los comentarios positivos valoran especialmente la estética visual, la facilidad para encontrar lo que se busca y la navegación por menús y secciones. En el caso de Kerarqueo, los usuarios destacaron la claridad de las acciones principales y el atractivo visual. El caso B (Jardín Alhambra) también obtiene una muy buena valoración, especialmente por la ambientación visual y estructura limpia.
